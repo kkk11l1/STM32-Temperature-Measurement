@@ -1,0 +1,41 @@
+# Keil uVision
+*.uvproj
+*.uvopt
+*.uvguix
+*.uvmpw
+*.dep
+*.crf
+*.o
+*.d
+*.axf
+*.hex
+*.map
+*.lst
+*.lnp
+*.htm
+*.sct
+*.s
+*.bak
+*.iex
+*.tra
+*.cdb
+*.dbg
+*.ini
+*.htm
+*.sct
+*.s
+*.bak
+*.iex
+*.tra
+*.cdb
+*.dbg
+*.ini
+
+# Build output
+Objects/
+Listings/
+*.build_log.htm
+
+# Debug files
+*.dbgconf
+*.dbgconf.user
